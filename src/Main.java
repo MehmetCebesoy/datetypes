@@ -9,6 +9,6 @@ public class Main {
         // boolean: karşılığı doğru veya yanlıştır 0 veya 1 , sayısal bir değerdir.
         // ascil kodu: her bir terimin sayısal karşılığıdır
         int sayi =12;
-        sayi = "manisa";
+      //  sayi = "manisa" yaparsak yanlış olur
     }boolean dogruMu = true;
 }
